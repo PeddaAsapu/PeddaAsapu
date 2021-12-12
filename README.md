@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PeddaAsapu
+- 👋 Hi, I’m @Pedda Babu Asapu
 - 👀 I’m interested in web development, Machine Learning and AI related projects
 - 🌱 I’m currently learning Cloud computing
 - 💞️ I’m looking to collaborate on AI/ML projects or Backend projects using Django
